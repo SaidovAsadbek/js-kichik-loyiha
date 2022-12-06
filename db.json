@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/2.jpg",
+      "altImg": "Alt",
+      "title": "Plan Premium",
+      "descr": "lorem",
+      "price": 20,
+      "parent": ".menu .container"
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altImg": "Alt",
+      "title": "Plan Premium",
+      "descr": "lorem",
+      "price": 20,
+      "parent": ".menu .container"
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altImg": "Alt",
+      "title": "Plan Premium",
+      "descr": "lorem",
+      "price": 20,
+      "parent": ".menu .container"
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altImg": "Alt",
+      "title": "Plan Premium",
+      "descr": "lorem",
+      "price": 20,
+      "parent": ".menu .container"
+    }
+  ],
+  "request": [
+    {
+      "name": "Asadbek",
+      "phone": "+998992668479",
+      "id": 1
+    },
+    {
+      "name": "savron",
+      "phone": "+998000000000",
+      "id": 2
+    },
+    {
+      "name": "Asadbek",
+      "phone": "+998995866859",
+      "id": 3
+    },
+    {
+      "name": "asadbek",
+      "phone": "+998995866859",
+      "id": 4
+    },
+    {
+      "name": "samandar",
+      "phone": "d",
+      "id": 5
+    }
+  ]
+}
